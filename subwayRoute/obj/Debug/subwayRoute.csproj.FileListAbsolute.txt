@@ -3,4 +3,3 @@ F:\STUDY\大三上\软工程序\subwayRoute\subwayRoute\bin\Debug\subwayRoute.ex
 F:\STUDY\大三上\软工程序\subwayRoute\subwayRoute\bin\Debug\subwayRoute.pdb
 F:\STUDY\大三上\软工程序\subwayRoute\subwayRoute\obj\Debug\subwayRoute.exe
 F:\STUDY\大三上\软工程序\subwayRoute\subwayRoute\obj\Debug\subwayRoute.pdb
-F:\STUDY\大三上\软工程序\subwayRoute\subwayRoute\obj\Debug\subwayRoute.csprojResolveAssemblyReference.cache
