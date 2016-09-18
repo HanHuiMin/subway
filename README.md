@@ -16,6 +16,6 @@ subwayRoute.exe –b 苏庄 俸伯
 
 subwayRoute.exe –c 苏庄 俸伯
 
-subwayRoute.exe 地铁一号线
+subwayRoute.exe 一号线
 
 3.输入参数格式不正确时，程序提示错误并退出
